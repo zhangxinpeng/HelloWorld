@@ -3,5 +3,5 @@ package hw;
 public class HeHe {
    String hehe = "heheABCD";
    String first = "first commit";
-   String ServerModified = "Server modified";
+   String ServerModified = "Server modified_test";
 }
