@@ -1,5 +1,5 @@
 package hw;
 
 public class HeHe {
-   String hehe = "hehe";
+   String hehe = "heheABCD";
 }
